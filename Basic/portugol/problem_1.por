@@ -5,8 +5,7 @@ programa
 		caracter operador
 		
 		inteiro resultado,  operando1, operando2
-		operando1=1
-		operando2=2
+		
 		escreva("Digite o primeiro número: ")
 		leia(operando1)
 
